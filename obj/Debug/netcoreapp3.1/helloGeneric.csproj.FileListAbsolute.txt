@@ -1,0 +1,13 @@
+/home/p/Documents/Code/helloGeneric/obj/Debug/netcoreapp3.1/helloGeneric.csprojAssemblyReference.cache
+/home/p/Documents/Code/helloGeneric/obj/Debug/netcoreapp3.1/helloGeneric.AssemblyInfoInputs.cache
+/home/p/Documents/Code/helloGeneric/obj/Debug/netcoreapp3.1/helloGeneric.AssemblyInfo.cs
+/home/p/Documents/Code/helloGeneric/obj/Debug/netcoreapp3.1/helloGeneric.csproj.CoreCompileInputs.cache
+/home/p/Documents/Code/helloGeneric/bin/Debug/netcoreapp3.1/helloGeneric
+/home/p/Documents/Code/helloGeneric/bin/Debug/netcoreapp3.1/helloGeneric.deps.json
+/home/p/Documents/Code/helloGeneric/bin/Debug/netcoreapp3.1/helloGeneric.runtimeconfig.json
+/home/p/Documents/Code/helloGeneric/bin/Debug/netcoreapp3.1/helloGeneric.runtimeconfig.dev.json
+/home/p/Documents/Code/helloGeneric/bin/Debug/netcoreapp3.1/helloGeneric.dll
+/home/p/Documents/Code/helloGeneric/bin/Debug/netcoreapp3.1/helloGeneric.pdb
+/home/p/Documents/Code/helloGeneric/obj/Debug/netcoreapp3.1/helloGeneric.dll
+/home/p/Documents/Code/helloGeneric/obj/Debug/netcoreapp3.1/helloGeneric.pdb
+/home/p/Documents/Code/helloGeneric/obj/Debug/netcoreapp3.1/helloGeneric.genruntimeconfig.cache
